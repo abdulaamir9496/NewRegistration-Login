@@ -174,7 +174,7 @@ export default SignUp;
 
 //     const handleSubmit = (e) => {
 //         e.preventDefault();
-//         axios.post('http://localhost:5000/register', { name, email, password, confirmPassword })
+//         axios.post('http://https://newregistration-backend.onrender.com/register', { name, email, password, confirmPassword })
 //         .then(result => {console.log(result)
 //         navigate('/login')
 //         })
